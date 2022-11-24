@@ -1,0 +1,60 @@
+*{margin-top: 0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.ancla { 
+  text-decoration: none;
+  border: rgba(255, 0, 0, 0.776) solid 10px;
+  padding: 10px;
+  background-color:black;
+}
+  .imagengal {
+  margin-top: 80px;
+    width: 250px;
+  height: 350px;
+border-radius: 10px;}
+
+
+.titulo{
+position: absolute;  
+color: rgb(174, 6, 6);
+margin-left:378px;
+margin-top: 150px;
+font-size: 3rem;}
+
+.navbar {
+margin-top: 4vh;
+position:fixed;
+margin-left:800px;}
+
+.fotoRulos { width:33%;
+  
+}
+.parrafo {
+
+ color: rgb(174, 6, 6);
+ font-size: 1.5rem;
+ position: absolute;
+ bottom: 10%;
+ text-align: center;}
+
+ .body_galeria {background-color: rgba(200, 16, 16, 0.407);}
+ .footer { bottom: 8px;
+margin-left: 40%;
+min-height: 10vh;}
+.body_tienda {background-image:url("../imagenes/calaveramexico\ \(1\).jpg");
+background-size: cover;}
+.listatienda { 
+  list-style:url("../imagenes/shoppingcart_80945.png");
+  position: relative;
+  margin-top: 300px;
+  margin-left: 140px;
+  font-weight:bolder;
+}
+.body_nosotros{
+  display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-content: center;
+}
